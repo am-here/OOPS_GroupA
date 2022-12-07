@@ -1,5 +1,3 @@
-package Calculator;
-
 import java.util.*;
 import Calc_Package.Calculator;
 
